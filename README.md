@@ -12,7 +12,7 @@ The SWAPI Explorer is a simple command-line Python application that allows users
 First, clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/swapi-explorer.git
+git clone https://github.com/sonnymay/swapi-explorer.git
 cd swapi-explorer
 ```
 
